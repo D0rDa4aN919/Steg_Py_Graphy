@@ -50,7 +50,7 @@ The "Steg_Py_Graphy" tool includes the following features:
 - Extract images from a file:
    - Usage: `python steg_py_graphy.py extract -f <file_name> -e image`
    - Example image:
-     ![image](https://github.com/D0rDa4aN919/Steg_Py_Graphy/assets/108623675/c2b2bc75-bbda-45dd-873b-83aced7b0e7c)
+     ![image](./example.jpg)
 
 - Extract audio files from a file:
    - Usage: `python steg_py_graphy.py extract -f <file_name> -e audio`
