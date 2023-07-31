@@ -1,16 +1,22 @@
-# Steg_Py_Graphy
+<h1 align="center">
+  Steg_Py_Graphy
+</h1>
 
 The "Steg_Py_Graphy" tool is a valuable asset for professionals in the fields of digital forensics and cybersecurity. 
 With its user-friendly design and ability to handle various media formats, it empowers users to unveil hidden data within multimedia files, 
 thereby aiding in the detection and analysis of potential security threats and concealed information.
 
-## Description
+<h2 align="center">
+  Description
+</h2>
 
 The "Steg_Py_Graphy" tool is a powerful tool for reverse steganography, capable of extracting concealed data from various digital media files,
 including audio, video, and image formats. With its efficient scanning algorithm and support for multiple file types,
 this script enables users to reveal hidden information for digital forensics, security analysis, and investigation purposes.
 
-## Built-in Libraries
+<h2 align="center">
+  Built-in Libraries
+</h2>
 
 This tool utilizes the following built-in libraries in Python:
 
@@ -20,7 +26,9 @@ This tool utilizes the following built-in libraries in Python:
 
 - [`argparse`](https://docs.python.org/3/library/argparse.html): Used for command-line argument parsing.
 
-## Usage
+<h2 align="center">
+  Usage
+</h2>
 
 To use the "Steg_Py_Graphy" tool, run the `hex_extrector.py` script with the desired sub-command and options. 
 The sub-command that are available are:
@@ -29,8 +37,9 @@ The sub-command that are available are:
   - -F/--files-names: The files to extract from the objects.
   - -e/--extract-type: Specify the extract type from the list of ['image', 'audio', 'video', 'all'].
 
-
-### Extract Files
+<h3 align="center">
+  Extract Files
+</h3>
 
 To extract files from a multimedia file, use the `extract` sub-command. Specify the file name and the extract type.
 Available extract types:
@@ -43,7 +52,9 @@ Available extract types:
 - all
   - Formats are: image formats + audio formats + video formats
 
-## Features
+<h2 align="center">
+  Features
+</h2>
 
 The "Steg_Py_Graphy" tool includes the following features:
 
@@ -60,15 +71,21 @@ The "Steg_Py_Graphy" tool includes the following features:
 
 - Extract all types of files from a file:
    - Usage: `python steg_py_graphy.py extract -f <file_name> -e all`
-     
-## License
+
+<h2 align="center">
+  License
+</h2>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+<h2 align="center">
+  Author
+</h2>
 
 - [D0rDa4aN919](https://github.com/D0rDa4aN919)
 
-## Acknowledgments
+<h2 align="center">
+  Acknowledgments
+</h2>
 
 - GCK's file signatures: https://www.garykessler.net/library/file_sigs.html
