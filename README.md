@@ -37,7 +37,7 @@ The sub-command that are available are:
   - -F/--files-names: The files to extract from the objects.
   - -e/--extract-type: Specify the extract type from the list of ['image', 'audio', 'video', 'all'].
 
-<h3 align="center">
+<h3>
   Extract Files
 </h3>
 
