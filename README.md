@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- [Dor Dahan](https://github.com/D0rDa4aN919)
+- [D0rDa4aN919](https://github.com/D0rDa4aN919)
 
 ## Acknowledgments
 
