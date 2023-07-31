@@ -14,22 +14,11 @@ this script enables users to reveal hidden information for digital forensics, se
 
 This tool utilizes the following built-in libraries in Python:
 
-- `os`: This library provides a way to interact with the operating system, allowing the tool to perform various file and directory operations.
+- [`os`](https://docs.python.org/3/library/os.html): This library provides a way to interact with the operating system, allowing the tool to perform various file and directory operations.
 
-- `platform`: The `platform` library is used to retrieve information about the underlying system, such as the operating system name, version, and hardware architecture.
+- [`platform`](https://docs.python.org/3/library/platform.html): The `platform` library is used to retrieve information about the underlying system, such as the operating system name, version, and hardware architecture.
 
-## Requirements
-This script requires Python 3. x and the following Python libraries:
-
-- [argparse](https://docs.python.org/3/library/argparse.html): Used for command-line argument parsing.
-
-You can use the requierments.txt file to install the Python libraries:
-
-- pip install -r requierments.txt;
-
-You can install the required libraries using pip:
-
-- pip install argparse;
+- [`argparse`](https://docs.python.org/3/library/argparse.html): Used for command-line argument parsing.
 
 ## Usage
 
