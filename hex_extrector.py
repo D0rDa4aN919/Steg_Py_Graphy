@@ -1,5 +1,5 @@
 ##############################################################################
-#  Steg Py Graphy - Python Script
+# Steg Py Graphy - Python Script
 # Description: Steg Py Graphy is a Python script designed to perform reverse steganography, extracting hidden files from other files. It can extract various types of files, such as images, audio, videos, or all types combined, from a single file.
 # Author: Dor Dahan
 # License: MIT (See details in the LICENSE file or at the end of this script)
